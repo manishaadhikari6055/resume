@@ -1,4 +1,3 @@
-
 Brief project description.
 
 Table of Contents
